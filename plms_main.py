@@ -10,7 +10,7 @@ Modified: 10/23/2018
 - This program takes a video stream and a yaml file of coordinates that
 correspond to individual parking spaces.
 
-- Using the cordinates as "Regoins of Interest" (ROI's), an evaluation of the
+- Using the cordinates as "Regions of Interest" (ROI's), an evaluation of the
 spot is made to determine wether a car is parked in the spot or if it is vacant.
 
 - Red or green rectangles are then drawn on the video with red indicating an
